@@ -28,8 +28,12 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=glazkos&show_icons=true&theme=gotham" alt="glazkos" />
-  <a href="https://github.com/GlazKoS?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GlazKoS&show_icons=true&theme=gotham&icon_color=ff3f34"></a>
 </p>
+
+<p align="center"> 
+ <a href="https://github.com/GlazKoS?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GlazKoS&show_icons=true&theme=gotham&icon_color=ff3f34"></a>
+</p>
+
 
 
 
