@@ -23,17 +23,13 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-**My GitHub Stats:** 
+📈 My GitHub Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=glazkos&show_icons=true&theme=gotham" alt="glazkos" />
-</p>
-
-<p align="center"> 
- <a href="https://github.com/GlazKoS?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GlazKoS&show_icons=true&theme=gotham&icon_color=ff3f34"></a>
-</p>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glazkos&show_icons=true&theme=gotham" alt="glazkos" />
 
 
 
