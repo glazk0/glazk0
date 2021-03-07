@@ -26,7 +26,8 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Twig    8 mins          ████████████████████████▓   98.08 % 
+PHP     8 mins          ███████████████░░░░░░░░░░   60.17 % 
+Twig    5 mins          █████████▓░░░░░░░░░░░░░░░   38.73 % 
 ```
 <!--END_SECTION:waka-->
 
