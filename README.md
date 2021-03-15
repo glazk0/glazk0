@@ -27,7 +27,7 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 <!--START_SECTION:waka-->
 ```text
 Twig    1 hr 8 mins     ██████████████████████▓░░   91.18 % 
-PHP     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+PHP     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 <!--END_SECTION:waka-->
 
