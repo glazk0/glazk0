@@ -7,7 +7,7 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [geek.exe](https://geek-exe.ovh) :wink:;
-- 🌱 I’m currently learning Vue.js; 
+- 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@glazk0](https://twitter.com/glazk0);
 
@@ -16,7 +16,7 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
