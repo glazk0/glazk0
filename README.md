@@ -26,8 +26,7 @@ Hi, I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught developme
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java   3 hrs 57 mins   ████████████████████████░   95.81 % 
-YAML   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Java   3 hrs 37 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
