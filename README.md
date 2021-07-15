@@ -32,7 +32,7 @@ Java   3 hrs 37 mins   ███████████████████
 
 📈 **My GitHub Stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glazkos&show_icons=true&theme=gotham" alt="glazkos" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glazk0&show_icons=true&theme=gotham" alt="glazk0" />
 
 
 
