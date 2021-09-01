@@ -6,7 +6,7 @@ I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught development �
   
 **🎧 Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on nothing :wink:;
+- 👨🏽‍💻 I’m currently working on a lot of things :wink:;
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@glazk0](https://twitter.com/glazk0);
