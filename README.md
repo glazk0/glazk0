@@ -27,7 +27,7 @@ I'm [glazk0](https://twitter.com/glazk0), a passionate self-taught development ð
 ðŸ“Š **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 
