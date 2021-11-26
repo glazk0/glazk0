@@ -34,7 +34,7 @@ I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 
 ---
 
-📊 **Monthly coding time:**
+📊 **Weekly coding time:**
 
 <!--START_SECTION:waka-->
 ```text
