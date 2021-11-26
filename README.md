@@ -6,7 +6,6 @@ I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=glazk0&theme=dark&show_icons=true">](https://metrics.lecoq.io/glazk0?template=classic)
 
-  
 📱 **About me:**
 
 -   👨🏽‍💻 I’m currently working on [@Aeternum](https://github.com/AeternumDiscord),
@@ -36,6 +35,7 @@ I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 ---
 
 📊 **Monthly coding time:**
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
