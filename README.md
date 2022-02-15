@@ -4,7 +4,7 @@
 
 I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=glazk0&theme=dark&show_icons=true">](https://metrics.lecoq.io/glazk0?template=classic)
+<a href="https://app.daily.dev/get?r=glazk0" target="_blank"><img src="https://api.daily.dev/devcards/c05ad6dd4d524f2c9de72fc3396611ac.png?r=txm" width="256" align="right" alt="Théo Goens's Dev Card"/></a>
 
 📱 **About me:**
 
@@ -53,3 +53,4 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 [<code><img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></code>](https://discord.com/users/247344130798256130)
 [<code><img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></code>](https://twitter.com/glazk0)
 [<code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>](https://github.com/glazk0)
+
