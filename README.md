@@ -4,7 +4,7 @@
 
 I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 
-<a href="https://app.daily.dev/get?r=glazk0" target="_blank"><img src="https://api.daily.dev/devcards/c05ad6dd4d524f2c9de72fc3396611ac.png?r=txm" width="256" align="right" alt="Théo Goens's Dev Card"/></a>
+<a href="https://app.daily.dev/get?r=glazk0" target="_blank"><img src="https://github.com/rebelchris/rebelchris/blob/devcard/devcard.svg" width="256" align="right" alt="Théo Goens's Dev Card"/></a>
 
 📱 **About me:**
 
