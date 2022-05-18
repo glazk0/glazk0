@@ -44,7 +44,9 @@ I'm **glazk0**, a passionate self-taught development 🚀 from Belgium.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   56 mins         ███████████████████████▒░   93.19 %
+JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
