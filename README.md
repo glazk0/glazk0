@@ -10,7 +10,7 @@
 
 📱 **About me:**
 
-- 😀 I'm **glazk0**, a 19 years old passionate self-taught from Belgium.
+- 😀 I'm **glazk0**, a 20 years old passionate self-taught from Belgium.
 - 👨🏽‍💻 I’m currently working on [@Aeternum](https://github.com/AeternumDiscord),
 - 🌱 I'm a student pursuing my Bachelor of Software Development,
 - 💬 Ask me about anything, I am happy to help,
