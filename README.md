@@ -6,13 +6,13 @@
 
 ---
 
-<a href="https://app.daily.dev/get?r=glazk0" target="_blank"><img src="https://github.com/glazk0/glazk0/blob/devcard/devcard.svg" width="256" align="right" alt="glazk0's dev card"/></a>
+<a href="https://app.daily.dev/glazk0"><img src="./devcard.png" width="356" align="right" alt="glazk0's Dev Card"/></a>
 
 📱 **About me:**
 
 - 😀 I'm **glazk0**, a 21-year-old passionate self-taught developer from Belgium.
 - 👨🏽‍💻 I’m currently working on [@Aeternum](https://github.com/AeternumDiscord), [@Carbuncle](https://github.com/carbuncle-ffxiv), [@Lilith](https://github.com/lilith-discord-bot),
-- 🌱 I'm a student pursuing my Bachelor of Software Development,
+- 🌱 I'm a student pursuing my Bachelor in Computer Science with a specialization in Software Development,
 - 💬 Ask me about anything; I am happy to help,
 - 📫 You can reach me [here](https://discord.com/users/247344130798256130);
 
